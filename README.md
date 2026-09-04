@@ -39,15 +39,6 @@ public class OseasPozo : SoftwareEngineer
 <table>
   <tr>
     <td width="50%">
-      <h3>🧩 API Gateway Modular</h3>
-      <p>Implementando un gateway de microservicios con ASP.NET Core, YARP y autenticación centralizada con JWT/OAuth 2.0.</p>
-      <img src="https://img.shields.io/badge/status-en_progreso-F59E0B?style=flat-square" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/YARP-1F4E79?style=flat-square" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-    <td width="50%">
       <h3>☁️ Azure Cloud Migration</h3>
       <p>Migrando una solución backend monolítica hacia Azure App Services + Functions, aplicando Infrastructure as Code con Terraform.</p>
       <img src="https://img.shields.io/badge/status-aprendiendo-3B82F6?style=flat-square" />
